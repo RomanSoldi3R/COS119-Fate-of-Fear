@@ -139,7 +139,11 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="COS I Project.cpp" />
+    <ClCompile Include="Face Your Fears.cpp" />
+    <ClCompile Include="Hero.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Hero.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
