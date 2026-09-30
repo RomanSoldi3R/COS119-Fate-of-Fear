@@ -14,5 +14,6 @@ public:
 	Knight ShieldUp();
 
 	Knight HealUp();
+
 };
 

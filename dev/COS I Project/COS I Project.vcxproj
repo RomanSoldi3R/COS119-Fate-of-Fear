@@ -142,10 +142,12 @@
     <ClCompile Include="Face Your Fears.cpp" />
     <ClCompile Include="Hero.cpp" />
     <ClCompile Include="Knight.cpp" />
+    <ClCompile Include="Sorcerer.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Hero.h" />
     <ClInclude Include="Knight.h" />
+    <ClInclude Include="Sorcerer.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
