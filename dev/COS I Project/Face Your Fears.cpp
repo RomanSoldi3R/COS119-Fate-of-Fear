@@ -7,7 +7,8 @@
 int main()
 {
 	
-	
+	Character Joel("joel", 100, 15);
+	std::cout << Joel.IsAlive();
 	
 	
 	
