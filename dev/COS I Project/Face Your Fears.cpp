@@ -1,11 +1,13 @@
 #include <iostream>
-
+#include "Character.h"
+#include "Knight.h"
+#include "Sorcerer.h"
 
 
 int main()
 {
 	
-
+	
 
 	
 	
