@@ -14,7 +14,8 @@ public:
 
 	Character(const std::string& _name, int _health, int _attackPower);		// constructor
 
-	void TakeDmg(int dmg);						// method to control the private variable "health" when a character takes damage
+	virtual void TakeDmg(int dmg);				// method to control the private variable "health" when a character takes damage
+	virtual void PrintStats() const;			// method to print stats
 
 	void Heal(int heal);						// method to control the private variable "health" when a character heals
 
